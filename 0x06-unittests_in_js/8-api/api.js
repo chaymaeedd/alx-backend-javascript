@@ -11,4 +11,4 @@ app.listen(port, () => {
     console.log("API available on localhost port 7865");
 });
 
-module.exports = app²;
+module.exports = app;
